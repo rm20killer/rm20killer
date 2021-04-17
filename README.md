@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RM20
-- 🌸 I’m interested in 🎮Games and Anime
+- 🌸 I’m interested in 🎮Games and 🗾Anime
 - 🌱 I’m currently learning games prodcution, javasctript and 3D modeling
 - 📫 How to reach me on [twitter](https://twitter.com/rm20killer) or Discord (@RM20#2000)
 - 🎬 I sometimes [stream](https://www.twitch.tv/rm20)
