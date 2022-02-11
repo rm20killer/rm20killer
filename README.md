@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rm20killer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rm20killer" height="30" width="40" /></a>
-<a href="https://instagram.com/@rm20.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rm20.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rm20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rm20" height="30" width="40" /></a>
+<a href="https://instagram.com/rm20.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rm20.dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtlWv2sgER00ueEmGlZZAXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rm20" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rm20killer&show_icons=true&locale=en&layout=compact" alt="rm20killer" /></p>
