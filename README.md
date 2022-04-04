@@ -26,7 +26,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rm20killer&" alt="rm20killer" /></p>
 
 
-<p><a href="https://www.buymeacoffee.com/RM20"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RM20" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/RM20"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RM20" /></a>
+<p><a href="https://ko-fi.com/rm20_"> <img align="left" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" height="50" width="50" alt="RM20" /></a>
+</p><br><br>
 
 <!---
 rm20killer/rm20killer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
