@@ -1,5 +1,5 @@
 <h1 align="center">I'm RM</h1>
-<p align="left"> <a href="https://twitter.com/rm20killer" target="blank"><img src="https://img.shields.io/twitter/follow/rm20killer?logo=twitter&style=for-the-badge" alt="rm20killer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rm20killer" target="blank"><img src="https://img.shields.io/twitter/follow/rm20dev?logo=twitter&style=for-the-badge" alt="rm20dev" /></a> </p>
 
 - I working on, [React bot](https://github.com/rm20killer/react-bot)
 
