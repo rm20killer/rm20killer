@@ -1,13 +1,10 @@
 <h1 align="center">I'm RM</h1>
-<p align="left"> <a href="https://twitter.com/rm20killer" target="blank"><img src="https://img.shields.io/twitter/follow/rm20dev?logo=twitter&style=for-the-badge" alt="rm20dev" /></a> </p>
-
-- I working on, [React bot](https://github.com/rm20killer/react-bot)
 
 - 🌱 I’m currently learning **Game development**
 
 - 🌸I’m interested in **🎮Games and 🗾Anime**
 
-- 📫 How to reach me **Discord (@RM20#2000)**
+- 📫 How to reach me **Discord (@RM20)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
