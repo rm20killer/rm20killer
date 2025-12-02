@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/rm20killer/rm20killer/refs/heads/main/ascii-art%20(1).svg" width="320" /> 
+<img align="left" src="https://raw.githubusercontent.com/rm20killer/rm20killer/main/ascii-art%20(1).svg" width="320" /> 
 
 ```csharp
 rm20killer@github
@@ -23,4 +23,4 @@ Email: main@rm20.dev
 Discord: RM20
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/rm20killer/rm20killer/refs/heads/main/palette.svg" width="200" /> 
+<img align="right" src="https://raw.githubusercontent.com/rm20killer/rm20killer/main/palette.svg" width="200" /> 
