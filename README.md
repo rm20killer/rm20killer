@@ -18,6 +18,9 @@ Hobbies: Climbing, Gaming, Anime
 Stars: 4
 Commits: 3,414
 Forks: 10
+Website: rm20.dev
 Email: main@rm20.dev 
 Discord: RM20
 ```
+
+<img align="right" src="https://raw.githubusercontent.com/rm20killer/rm20killer/refs/heads/main/palette.svg" width="200" /> 
